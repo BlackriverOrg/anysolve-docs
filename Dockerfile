@@ -5,4 +5,4 @@ COPY ./requirements.freeze.txt /work/
 COPY ./requirements.dev.txt /work/
 RUN python3 -m pip install --no-cache-dir -r requirements.dev.txt
 COPY ./src /work/src
-CMD mkdocs build
+RUN mkdocs build
