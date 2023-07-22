@@ -4,5 +4,6 @@ WORKDIR /work
 COPY ./requirements.freeze.txt /work/
 COPY ./requirements.dev.txt /work/
 RUN python3 -m pip install --no-cache-dir -r requirements.dev.txt
-COPY ./src /work/src
+COPY ./docs /work/docs
+COPY ./mkdocs.yml /work/mkdocs.yml
 RUN mkdocs build
