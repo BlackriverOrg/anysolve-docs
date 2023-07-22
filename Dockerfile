@@ -1,4 +1,4 @@
-FROM python:3.10-slim AS build-stage
+FROM python:3.8-slim AS build-stage
 RUN mkdir /work
 WORKDIR /work
 COPY ./requirements.freeze.txt /work/
