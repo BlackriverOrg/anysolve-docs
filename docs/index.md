@@ -12,3 +12,7 @@
 - For B2B customers, integrate AnySolve seamlessly into your business workflow with our comprehensive API and Hooks support.
 - Find a diverse range of UI elements tailored to various types of tasks, enhancing the user experience.
 - Harness powerful plugins for real-time data access, computations, and integration with third-party services.
+
+## Contribution
+
+Feel free to open a Pull Request on [GitHub](https://github.com/BlackriverOrg/anysolve-docs) to improve this documentation.

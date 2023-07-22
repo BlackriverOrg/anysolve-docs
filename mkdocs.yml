@@ -1,4 +1,5 @@
 site_name: AnySolve
+site_url: https://docs.anysolve.ai/
 theme:
   name: material
 nav:
@@ -9,3 +10,4 @@ nav:
       - "Task: Write a Paper": "showcase/write-a-paper.md"
   - "REST API": "rest/rest.md"
   - Pricing: "pricing.md"
+repo_url: https://github.com/BlackriverOrg/anysolve-docs/

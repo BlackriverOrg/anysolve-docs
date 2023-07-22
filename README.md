@@ -22,3 +22,7 @@ source .env/bin/activate
 ```
 make watch
 ```
+
+## Contribution
+
+Feel free to open a Pull Request to improve this documentation.
