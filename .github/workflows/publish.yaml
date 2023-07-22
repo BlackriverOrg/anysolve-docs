@@ -1,0 +1,61 @@
+# This workflow will build a docker container, publish it to Google Container Registry when a release is created
+#
+# To configure this workflow:
+#
+# 1. Ensure that your repository contains the necessary configuration for your Google Kubernetes Engine cluster, including deployment.yml, kustomization.yml, service.yml, etc.
+#
+# 2. Set up secrets in your workspace: GKE_PROJECT with the name of the project, GKE_EMAIL with the service account email, GKE_KEY with the Base64 encoded JSON service account key (https://github.com/GoogleCloudPlatform/github-actions/tree/docs/service-account-key/setup-gcloud#inputs).
+#
+# 3. Change the values for the GKE_ZONE, GKE_CLUSTER, IMAGE, REGISTRY_HOSTNAME and DEPLOYMENT_NAME environment variables (below).
+name: Build, Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+# Environment variables available to all jobs and steps in this workflow
+env:
+  GKE_PROJECT: ${{ vars.GKE_PROJECT }}
+  GKE_EMAIL: ${{ vars.GKE_EMAIL }}
+  GITHUB_SHA: ${{ github.sha }}
+  GKE_ZONE: europe-west4-b
+  GKE_DEPLOY_REGION: europe-west4
+  IMAGE: anysolve-editor
+  REGISTRY_HOSTNAME: eu.gcr.io
+jobs:
+  setup-build-publish:
+    name: Setup, Build, Publish
+    runs-on: ubuntu-latest
+    permissions:
+      contents: "read"
+      id-token: "write"
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.8"
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Setup gcloud CLI
+      - uses: google-github-actions/setup-gcloud@v0
+        with:
+          version: "318.0.0"
+          service_account_email: ${{ vars.GKE_EMAIL }}
+          service_account_key: ${{ secrets.GKE_KEY }}
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      # Build the Docker image
+      - name: Build
+        run: |
+          DOCKER_BUILDKIT=1 docker build -o site .
+
+      - name: Show files
+        run: |
+          ls -lah
+
+      - name: "Use gcloud CLI"
+        run: "gsutil -m rsync -R -d site/ gs://docs.anysolve.ai"
