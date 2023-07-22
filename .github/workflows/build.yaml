@@ -7,21 +7,12 @@
 # 2. Set up secrets in your workspace: GKE_PROJECT with the name of the project, GKE_EMAIL with the service account email, GKE_KEY with the Base64 encoded JSON service account key (https://github.com/GoogleCloudPlatform/github-actions/tree/docs/service-account-key/setup-gcloud#inputs).
 #
 # 3. Change the values for the GKE_ZONE, GKE_CLUSTER, IMAGE, REGISTRY_HOSTNAME and DEPLOYMENT_NAME environment variables (below).
-name: Build to GKE
+name: Build
 
 on:
   pull_request:
     branches:
       - main
-
-# Environment variables available to all jobs and steps in this workflow
-env:
-  GKE_PROJECT: ${{ vars.GKE_PROJECT }}
-  GKE_EMAIL: ${{ vars.GKE_EMAIL }}
-  GITHUB_SHA: ${{ github.sha }}
-  GKE_ZONE: eu-west4-b
-  IMAGE: anysolve-docs
-  REGISTRY_HOSTNAME: eu.gcr.io
 
 jobs:
   setup-build:
@@ -31,7 +22,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.9"
+          python-version: "3.10"
       - name: Checkout
         uses: actions/checkout@v2
 
