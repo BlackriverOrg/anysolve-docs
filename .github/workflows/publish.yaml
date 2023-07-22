@@ -9,12 +9,8 @@
 # 3. Change the values for the GKE_ZONE, GKE_CLUSTER, IMAGE, REGISTRY_HOSTNAME and DEPLOYMENT_NAME environment variables (below).
 name: Build, Deploy
 
-#on:
-#  push:
-#    branches:
-#      - main
 on:
-  pull_request:
+  push:
     branches:
       - main
 
