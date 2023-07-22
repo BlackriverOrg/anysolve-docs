@@ -57,5 +57,9 @@ jobs:
         run: |
           docker build -o site .
 
+      - name: Show files
+        run: |
+          ls -lah
+
       - name: "Use gcloud CLI"
         run: "gsutil -m rsync -R -d site/ gs://docs.anysolve.ai"
