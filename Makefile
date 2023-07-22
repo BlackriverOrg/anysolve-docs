@@ -1,4 +1,3 @@
-include .environment
 SHELL := /bin/bash
 
 ## watch: Runs uvicorn server

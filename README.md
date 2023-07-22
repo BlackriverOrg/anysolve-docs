@@ -7,7 +7,6 @@ Documentation for AnySolve.ai
 Create a virtual environment, activate it and install the requirements.
 
 ```
-touch .environment
 make env
 make requirements
 ```
