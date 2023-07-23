@@ -4,6 +4,10 @@ The following showcase presents the [Create a HTML document](https://www.anysolv
 
 Please note that this task has been created by the capabilities of AnySolve. You can create a task that does a similar task easily with the task designer.
 
+## Introduction Video
+
+![type:video](create-html-document.mp4)
+
 ## First run
 
 The task allows you to create a new html document named `shoeshop`.

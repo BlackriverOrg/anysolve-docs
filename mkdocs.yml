@@ -2,6 +2,8 @@ site_name: AnySolve
 site_url: https://docs.anysolve.ai/
 theme:
   name: material
+plugins:
+  - mkdocs-video
 nav:
   - Home: "index.md"
   - "User Guide":
