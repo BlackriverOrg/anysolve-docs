@@ -6,6 +6,7 @@ plugins:
   - mkdocs-video
 nav:
   - Home: "index.md"
+  - "FAQ": "faq.md"
   - "User Guide":
       - "Overview": "guide/overview.md"
   - "Showcase":
