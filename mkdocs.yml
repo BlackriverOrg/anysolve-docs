@@ -7,7 +7,8 @@ nav:
   - "User Guide":
       - "Overview": "guide/overview.md"
   - "Showcase":
-      - "Task: Write a Paper": "showcase/write-a-paper.md"
+      - "Task: Create a HTML document": "showcase/create-html-document/create-html-document.md"
+      - "Task: Write a Paper": "showcase/write-a-paper/write-a-paper.md"
   - "REST API": "rest/rest.md"
   - Pricing: "pricing.md"
 repo_url: https://github.com/BlackriverOrg/anysolve-docs/
