@@ -2,7 +2,7 @@
 
 The following showcase presents the [Create a HTML document](https://www.anysolve.ai/tasks/u-ba835df8268fc301-create-a-html-document) task.
 
-Please note that this task has been created by the capabilities of AnySolve. You can create a task that does a similar task easily with the task designer.
+Please note that this task has been created by the capabilities of AnySolve. You can create a task that does a similar task easily with the task designer. Similar Task: [Create a Python script](https://www.anysolve.ai/tasks/u-ba835df8268fc301-create-a-python-script)
 
 ## Introduction Video
 
