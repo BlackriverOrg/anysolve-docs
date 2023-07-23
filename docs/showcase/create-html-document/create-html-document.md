@@ -2,7 +2,7 @@
 
 The following showcase presents the [Create a HTML document](https://www.anysolve.ai/tasks/u-ba835df8268fc301-create-a-html-document) task.
 
-Please note that this task has been created by the capabilities of AnySolve. You can create a task that does a similar task easily with the task designer. Similar Task: [Create a Python script](https://www.anysolve.ai/tasks/u-ba835df8268fc301-create-a-python-script)
+Please note that this task has been created by the capabilities of AnySolve. You can create a task that does a similar task easily with the task designer. Similar Tasks: [Create a Python script](https://www.anysolve.ai/tasks/u-ba835df8268fc301-create-a-python-script), [Write and further improve a newspaper article](https://www.anysolve.ai/tasks/u-ba835df8268fc301-write-and-further-improve-a-newspaper-article), [Write a paper](https://www.anysolve.ai/tasks/u-ba835df8268fc301-write-a-paper)
 
 ## Introduction Video
 
@@ -40,4 +40,4 @@ You and get the final result:
 
 ## Conclusion
 
-The task allows you to write a paper on a subject and tell the AI to make changes if you are not yet satisfied with a part of the paper. You get text and different output files that are ready to use.
+The task allows you to create a HTML page and tell the AI to make changes if you are not yet satisfied with a resulting HTML page. You get the HTML code and a HTML file you can use.
