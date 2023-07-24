@@ -3,7 +3,7 @@ site_url: https://docs.anysolve.ai/
 theme:
   name: material
 plugins:
-  - mkdocs-video
+  - mkdocs-video:
       is_video: True
       video_autoplay: False
 nav:
