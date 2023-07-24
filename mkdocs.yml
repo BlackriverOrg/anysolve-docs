@@ -2,10 +2,14 @@ site_name: AnySolve
 site_url: https://docs.anysolve.ai/
 theme:
   name: material
+markdown_extensions:
+  - attr_list
 plugins:
   - mkdocs-video:
       is_video: True
       video_autoplay: False
+      css_style:
+        width: "100%"
 nav:
   - Home: "index.md"
   - "FAQ": "faq.md"

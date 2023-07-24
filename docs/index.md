@@ -6,7 +6,7 @@
 
 ## Features
 
-![type:video](features.mp4)
+![type:video](features.mp4){: style='width: 100%;height: 22.172vw'}
 
 - Gain platform access with no recurring fees or mandatory subscriptions required.
 - Experience a wide array of AI models, including openAI GPT, Stable Diffusion, Midjourney, and Bard, all conveniently accessible through a single - unified platform.
