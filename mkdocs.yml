@@ -4,6 +4,8 @@ theme:
   name: material
 plugins:
   - mkdocs-video
+      is_video: True
+      video_autoplay: False
 nav:
   - Home: "index.md"
   - "FAQ": "faq.md"
