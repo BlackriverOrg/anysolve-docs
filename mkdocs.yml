@@ -20,7 +20,7 @@ nav:
       - "Task design - Run AIs anonymized": "showcase/anonymize-ai/anonymize-ai.md"
       - "Task: Write and further improve a newspaper article": "showcase/create-newspaper-article/create-newspaper-article.md"
       - "Task: Write a Paper": "showcase/write-a-paper/write-a-paper.md"
-
+      - "Create your own AI tool": "showcase/create-your-own-ai-tools/create-your-own-ai-tools.md"
   - "REST API": "rest/rest.md"
   - Pricing: "pricing.md"
 repo_url: https://github.com/BlackriverOrg/anysolve-docs/
