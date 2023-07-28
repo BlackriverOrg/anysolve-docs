@@ -6,7 +6,7 @@ Please note that this task has been created by the capabilities of AnySolve. You
 
 ## Introduction Video
 
-![type:video](create-html-document.mp4)
+![type:video](create-html-document.mp4){: poster='../create-html-document.jpg'}
 
 ## First run
 

@@ -6,7 +6,7 @@ Imagine you want an AI tool that composes a work email for you. You describe wha
 
 ## Introduction Video
 
-![type:video](create-your-own-ai-tools.mp4)
+![type:video](create-your-own-ai-tools.mp4){: poster='../create-your-own-ai-tools.jpg'}
 
 ## Create the task and describe it
 
