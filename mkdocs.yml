@@ -22,6 +22,7 @@ nav:
       - "Task: Write a Paper": "showcase/write-a-paper/write-a-paper.md"
       - "Create your own AI tool": "showcase/create-your-own-ai-tools/create-your-own-ai-tools.md"
   - "REST API": "rest/rest.md"
+  - Community: "community.md"
   - Pricing: "pricing.md"
   - Status: "status.md"
 repo_url: https://github.com/BlackriverOrg/anysolve-docs/
