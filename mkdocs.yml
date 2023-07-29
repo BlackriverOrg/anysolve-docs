@@ -23,4 +23,5 @@ nav:
       - "Create your own AI tool": "showcase/create-your-own-ai-tools/create-your-own-ai-tools.md"
   - "REST API": "rest/rest.md"
   - Pricing: "pricing.md"
+  - Status: "status.md"
 repo_url: https://github.com/BlackriverOrg/anysolve-docs/
