@@ -6,7 +6,7 @@ Please note that this task has been created by the capabilities of AnySolve. You
 
 ## Introduction Video
 
-![type:video](create-newspaper-article.mp4)
+![type:video](create-newspaper-article.mp4){: poster='../create-newspaper-article.jpg'}
 
 ## First run
 

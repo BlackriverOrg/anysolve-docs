@@ -10,7 +10,7 @@ There are two scenarios you can use it.
 
 ## Introduction Video
 
-![type:video](anonymize-ai.mp4)
+![type:video](anonymize-ai.mp4){: poster='../anonymize-ai.jpg'}
 
 ## A) Simple input anonymization without sensitive information in the result
 
