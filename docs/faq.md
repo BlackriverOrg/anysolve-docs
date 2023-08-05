@@ -26,6 +26,38 @@ Yes, there are charges associated with our services, which are determined by the
 
 Credits are essential resources that users can utilize to execute tasks within AnySolve's platform. Each task requires a specific number of credits to be performed. You can purchase credits through the Billing Settings section of your account. To stay up-to-date with the latest credit pricing, kindly refer to the Pricing page.
 
+## How can I determine the credits required for a task?
+
+Each task within the service is assigned an expected cost in credits, and this information is prominently displayed to the user before initiating the task. The expected credit cost will give you a clear idea of the resources needed to execute the task.
+
+## What happens when I click the "Run task" button?
+
+Upon clicking the "Run task" button, you will be presented with a message showing the average cost in credits for that specific task. This ensures that you have a comprehensive understanding of the credit usage before proceeding with the task execution.
+
+## Are there any additional fees associated with credit usage?
+
+No, the credit cost displayed for each task is all-inclusive, meaning there are no hidden or additional fees. The stated credit amount is the total expense required to execute the task.
+
+## How do I purchase additional credits?
+
+To purchase more credits, go to the "Settings" page on our platform, click on the "Billing" section, and select "Buy new credits with stripe." It's a simple and secure process.
+
+## What payment methods are accepted for credit purchases?
+
+To provide you with a seamless experience, we accept various payment methods through our trusted payment provider, Stripe. You can use any major credit card, a PayPal account, Apple Pay, Google Pay, Klarna, and many more, ensuring you have a convenient and diverse range of options to choose from.
+
+## Will my purchased credits expire?
+
+We want to ensure you have the flexibility to use your credits effectively. As such, we do not impose any expiry date on purchased credits. You can use them whenever you need, without worrying about time constraints.
+
+## Can I keep track of my credit balance after a purchase?
+
+Certainly! We value your need to stay informed about your credit usage. After making a credit purchase, you have multiple ways to keep track of your updated credit balance:
+
+1. Account Settings - Billing Section: Log into your account and head to the "Billing" section in your account settings. Here, you can easily manage your credit transactions and view your current credit balance. It provides a comprehensive overview of your credit history and usage.
+
+2. Dashboard: Upon logging in, you can conveniently find your remaining credits displayed on the top right corner of the page. This instant view allows you to see your credit balance at a glance, ensuring you are always aware of your available credits.  
+
 ## How do I get started with using AnySolve?
 
 Getting started with AnySolve is simple. Visit our website at www.anysolve.ai, sign up for an account, and follow the provided instructions to begin automating your most complex tasks today.
