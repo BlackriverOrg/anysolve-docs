@@ -30,6 +30,8 @@ This is where the true AI magic unfolds. As you land on the homepage, you'll spo
 
 If you're looking for more, just scroll down and click "Load More Tasks" to unveil additional options that may not be visible on the current page. The task library is thoughtfully curated, featuring a wide array of AI tasks tailored to various needs. These tasks cater to writers, journalists, data scientists, marketers, software developers, and even general users – meaning there's something for everyone.
 
+![Screenshot](tasks-main-page.png)
+
 ## Creating Custom Tasks
 
 AnySolve goes beyond just offering existing tasks – you have the power to craft your very own. This feature is all about customization, ensuring our platform caters to diverse users like yourself. We've made it possible for you to create tasks tailored to your needs.
@@ -40,7 +42,11 @@ On the **"All Tasks"** page, keep an eye out for the **"Create New Task"** butto
 
 Begin by creating simple tasks that utilize the GPT model. To start, select the "**Chat Complete (GPT and others)**" subtask. After this selection, the initial step is to input task details: title, short description, detailed description, and relevant tags. Scroll down, and you'll encounter the "Chat Complete (GPT and others)" section you previously chose.
 
+![Screenshot](task-editor-view.png)
+
 Your first task is defining the input prompt in the "**Input: Prompt (Text)**" section. This prompt guides the GPT model. Following this, complete the name, description, and example fields for both input and output.
+
+![Screenshot](task-editor-inputs.png)
 
 At the bottom of the task editor page, you'll find the option to "**Run Task to Generate Output Examples.**" Clicking this leads you to the "**Publish a New Task**" button. Upon clicking this button, your task becomes ready for use in the task library. It's important to note that you can refine this task later by creating improved versions. If you miss something in the first version, don't worry – you can address it in subsequent versions.
 
@@ -49,6 +55,8 @@ At the bottom of the task editor page, you'll find the option to "**Run Task to 
 Performing tasks is a smooth and straightforward experience, all thanks to AnySolve's user-friendly features. When you access a task, you'll be presented with its dedicated window. Each task has its own page, featuring input fields and a "**Run Task**" button. The specific input fields can vary from one task to another. While some tasks may require a single input, others might need multiple inputs for successful execution.
 
 As you input the required information, it's essential to carefully read and understand the field instructions. This ensures that you provide accurate information and avoid any errors. Once you've completed inputting the necessary details, you're ready to click the "**Run Task**" button. The model will take some time to process and will then generate the desired output.
+
+![Screenshot](single-task-page.png)
 
 ## Handling Task Results
 
@@ -73,48 +81,3 @@ To enhance our service performance and user experience, we analyze usage data th
 AnySolve is your ally, no matter your field. With AI tools at your fingertips, productivity grows and possibilities expand. Adapt tasks, tailor solutions – AnySolve flexes with you.
 
 Easy navigation, intuitive task handling, and robust support define the experience. Your data's security is paramount, and we adhere to stringent privacy standards. By becoming a member of AnySolve, you align yourself with a community dedicated to propelling work and business to new heights. Waste no time – take the step and sign up with us today.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
