@@ -16,6 +16,7 @@ nav:
   - "User Guide":
       - "Overview": "guide/overview.md"
   - "Showcase":
+      - "Overview": "showcase/overview.md"
       - "Task: Create a HTML document": "showcase/create-html-document/create-html-document.md"
       - "Task design - Run AIs anonymized": "showcase/anonymize-ai/anonymize-ai.md"
       - "Task: Write and further improve a newspaper article": "showcase/create-newspaper-article/create-newspaper-article.md"
