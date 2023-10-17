@@ -12,7 +12,7 @@ AnySolve is a powerful automation tool designed to streamline your business proc
 
 ## Who can benefit from using AnySolve?
 
-AnySolve's versatile services cater to a wide range of professionals and industries. Whether you're a software engineer, author, content creator, business owner, marketer, academician, journalist, or anyone seeking tailored and powerful solutions, AnySolve has something valuable to offer. Explore our comprehensive range of tasks to find the perfect fit for your specific needs. 
+AnySolve's versatile services cater to a wide range of professionals and industries. Whether you're a software engineer, author, content creator, business owner, marketer, academician, journalist, or anyone seeking tailored and powerful solutions, AnySolve has something valuable to offer. Explore our comprehensive range of tasks to find the perfect fit for your specific needs.
 
 ## What types of tasks can be automated with AnySolve?
 
@@ -56,7 +56,7 @@ Certainly! We value your need to stay informed about your credit usage. After ma
 
 1. Account Settings - Billing Section: Log into your account and head to the "Billing" section in your account settings. Here, you can easily manage your credit transactions and view your current credit balance. It provides a comprehensive overview of your credit history and usage.
 
-2. Dashboard: Upon logging in, you can conveniently find your remaining credits displayed on the top right corner of the page. This instant view allows you to see your credit balance at a glance, ensuring you are always aware of your available credits.  
+2. Dashboard: Upon logging in, you can conveniently find your remaining credits displayed on the top right corner of the page. This instant view allows you to see your credit balance at a glance, ensuring you are always aware of your available credits.
 
 ## How do I get started with using AnySolve?
 
@@ -64,7 +64,7 @@ Getting started with AnySolve is simple. Visit our website at www.anysolve.ai, s
 
 ## Can I try AnySolve for free?
 
-Absolutely! AnySolve offers a free trial to get you started. Upon registration, you'll receive 200 free Credits that can be used to execute tasks. With these credits, you can explore and run numerous tasks without any cost. It's a great way to experience the power and capabilities of AnySolve before making a commitment.
+Absolutely! AnySolve offers a free trial to get you started. Upon login, you'll receive 200 free Credits that can be used to execute tasks. With these credits, you can explore and run numerous tasks without any cost. It's a great way to experience the power and capabilities of AnySolve before making a commitment.
 
 ## Does AnySolve offer customer support?
 
