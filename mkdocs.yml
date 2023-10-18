@@ -23,7 +23,7 @@ nav:
       - "Task: Write and further improve a newspaper article": "showcase/create-newspaper-article/create-newspaper-article.md"
       - "Task: Write a Paper": "showcase/write-a-paper/write-a-paper.md"
       - "Create your own AI tool": "showcase/create-your-own-ai-tools/create-your-own-ai-tools.md"
-  - "REST API": "rest/rest.md"
+  - "REST API": "rest/ai-api.md"
   - Community: "community.md"
   - Pricing: "pricing.md"
   - Status: "status.md"
