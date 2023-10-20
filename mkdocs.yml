@@ -17,7 +17,7 @@ nav:
       - "Overview": "guide/overview.md"
   - "Showcase":
       - "Overview": "showcase/overview.md"
-      - "Task: Query Document Collection": "showcase/query-document-collection/query-knowledge-base"
+      - "Task: Query Document Collection": "showcase/query-document-collection/query-knowledge-base.md"
       - "Task: Chart Generator": "showcase/chart-generator/chart-generator.md"
       - "Task: Create a HTML document": "showcase/create-html-document/create-html-document.md"
       - "Task design - Run AIs anonymized": "showcase/anonymize-ai/anonymize-ai.md"
