@@ -2,6 +2,10 @@
 
 The following showcases shows the capabilities of AnySolve.
 
+## Task: Query Document Collection
+
+The [Query Document Collection task](../query-document-collection/query-knowledge-base) showcase enables you to answer all your question about knowledge bases you have built. You may have legal documents in your organization you want to search information in. You may want to create a smart ChatBot that accesses your FAQ documents and provides a meaningful answer to your customer. No matter how small the needle is that you want to find in the haystack, AnySolve has you covered.
+
 ## Task: Chart Generator
 
 Welcome to the [Chart Generator task](../chart-generator/chart-generator) showcase! This is your gateway to effortlessly creating visual charts from simple text descriptions. Whether you're a data enthusiast, a presenter, or just someone who needs to convey information visually, the Chart Generator empowers you to transform your ideas into eye-catching charts within seconds. Specify the chart type, axes, data points, and let the AI work its magic. Say goodbye to complex charting tools and embrace the simplicity of generating charts with AnySolve.
