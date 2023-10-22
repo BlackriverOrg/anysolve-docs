@@ -1,6 +1,6 @@
 # Task: Query Document Collection
 
-The following showcase presents the [Searchable Document Collection - Query](https://www.anysolve.ai/tasks/intern-memory-search-collection-query) and [Searchable Document Collection - Add document](https://www.anysolve.ai/tasks/intern-memory-search-collection-add-document) task. The tasks allows you to add documents to a collection and a user can ask questions about this documents.
+The following showcase presents the [Searchable Document Collection - Query](https://www.anysolve.ai/tasks/intern-memory-search-collection-query) and [Searchable Document Collection - Add document](https://www.anysolve.ai/tasks/intern-memory-search-collection-add-document) or [Searchable Document Collection - Add Website document](https://www.anysolve.ai/tasks/intern-memory-search-collection-add-url) task. The tasks allows you to add documents to a collection and a user can ask questions about this documents.
 
 Please note that this task has been created by the capabilities of AnySolve. You can create a task that does a similar task easily with the task designer. Similar Tasks: [Create a Python script](https://www.anysolve.ai/tasks/u-ba835df8268fc301-create-a-python-script), [Write and further improve a newspaper article](https://www.anysolve.ai/tasks/u-ba835df8268fc301-write-and-further-improve-a-newspaper-article), [Write a paper](https://www.anysolve.ai/tasks/u-ba835df8268fc301-write-a-paper), [Create a HTML document](https://www.anysolve.ai/tasks/u-ba835df8268fc301-create-a-html-document)
 
@@ -17,6 +17,10 @@ First we need to build our knowledge base. For this we need to upload documents.
 Afterwards we add some more documents from the AnySolve website that have information about how to use AnySolve.
 
 **Please note:** The document lifetime is specified in the task description.
+
+## New: Add website document to the document collection
+
+The task [Searchable Document Collection - Add Website document](https://www.anysolve.ai/tasks/intern-memory-search-collection-add-url) allows you to add a website by providing the `URL` to a collection.
 
 ## Querying the document collection
 
