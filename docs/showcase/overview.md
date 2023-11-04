@@ -29,3 +29,7 @@ Embark on scholarly endeavors with the ["Write a Paper"](../write-a-paper/write-
 ## Create your own AI tool
 
 Unleash your creativity and innovation by [crafting your very own AI tool](../create-your-own-ai-tools/create-your-own-ai-tools)! This page guides you through the process of designing and developing a custom AI tool to cater to your specific needs. Define the tool's functionality, input-output interactions, and customize its behavior. With AnySolve's intuitive tools and powerful AI capabilities, you have the opportunity to bring your unique AI ideas to life, opening doors to a world of tailored solutions.
+
+## Bonus Credits
+
+Use the code `DOCANYSOLVE` on our [Promotions Page](https://www.anysolve.ai/settings/promotion) to get 50 free credits.
