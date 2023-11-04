@@ -32,4 +32,4 @@ Unleash your creativity and innovation by [crafting your very own AI tool](../cr
 
 ## Bonus Credits
 
-Use the code `DOCANYSOLVE` on our [Promotions Page](https://www.anysolve.ai/settings/promotion) to get 50 free credits.
+Use the code `DOCANYSOLVE` on our [Promotions Page](https://www.anysolve.ai/settings/promotion) to get 30 free credits.
