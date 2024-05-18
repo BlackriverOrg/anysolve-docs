@@ -2,7 +2,7 @@
 
 As a Company or Private Person that is regulated by Privacy Laws as the GDPR you may worry about leaking your customer's data to AI models that are re-trained with the data you input.
 
-AnySolve offers a solution for this problem. The [https://www.anysolve.ai/tasks/intern-anonymizer-anonymize](Anonymize Text Task) allows you to use the [Software Presidio](https://microsoft.github.io/presidio/) to anonymize your inputs.
+AnySolve offers a solution for this problem. The [https://www.anysolve.ai/tools/intern-anonymizer-anonymize](Anonymize Text Task) allows you to use the [Software Presidio](https://microsoft.github.io/presidio/) to anonymize your inputs.
 
 **Please note** that there is no guarantee that every form of private input is anonymized. Test it in full on your input data.
 

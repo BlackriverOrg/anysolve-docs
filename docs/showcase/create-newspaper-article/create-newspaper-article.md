@@ -1,8 +1,8 @@
 # Task: Write and further improve a newspaper article
 
-The following showcase presents the [Write and further improve a newspaper article](https://www.anysolve.ai/tasks/u-ba835df8268fc301-write-and-further-improve-a-newspaper-article) task.
+The following showcase presents the [Write and further improve a newspaper article](https://www.anysolve.ai/tools/u-ba835df8268fc301-write-and-further-improve-a-newspaper-article) task.
 
-Please note that this task has been created by the capabilities of AnySolve. You can create a task that does a similar task easily with the task designer. Similar Tasks: [Create a Python script](https://www.anysolve.ai/tasks/u-ba835df8268fc301-create-a-python-script), [Write and further improve a newspaper article](https://www.anysolve.ai/tasks/u-ba835df8268fc301-write-and-further-improve-a-newspaper-article), [Write a paper](https://www.anysolve.ai/tasks/u-ba835df8268fc301-write-a-paper), [Create a HTML document](https://www.anysolve.ai/tasks/u-ba835df8268fc301-create-a-html-document)
+Please note that this task has been created by the capabilities of AnySolve. You can create a task that does a similar task easily with the task designer. Similar Tasks: [Create a Python script](https://www.anysolve.ai/tools/u-ba835df8268fc301-create-a-python-script), [Write and further improve a newspaper article](https://www.anysolve.ai/tools/u-ba835df8268fc301-write-and-further-improve-a-newspaper-article), [Write a paper](https://www.anysolve.ai/tools/u-ba835df8268fc301-write-a-paper), [Create a HTML document](https://www.anysolve.ai/tools/u-ba835df8268fc301-create-a-html-document)
 
 ## Introduction Video
 

@@ -1,6 +1,6 @@
 # Task: Chart generator
 
-Welcome to the world of effortless chart creation with the Chart Generator provided by AnySolve! This showcase highlights the innovative [Chart Generator | Generate Chart by Text](https://www.anysolve.ai/tasks/intern-text-to-image-description-chart) task that empowers you to transform textual descriptions into captivating visual representations.
+Welcome to the world of effortless chart creation with the Chart Generator provided by AnySolve! This showcase highlights the innovative [Chart Generator | Generate Chart by Text](https://www.anysolve.ai/tools/intern-text-to-image-description-chart) task that empowers you to transform textual descriptions into captivating visual representations.
 
 **Note**: The remarkable capabilities of AnySolve have brought this task to life. Moreover, you have the power to craft similar tasks effortlessly using the intuitive task designer.
 

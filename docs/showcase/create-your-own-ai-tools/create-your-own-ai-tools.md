@@ -46,7 +46,7 @@ You run the task by clicking on the `Run task` button to generate the output exa
 
 ## Result
 
-There you have it, your [first task](https://www.anysolve.ai/tasks/u-ba835df8268fc301-write-email).
+There you have it, your [first task](https://www.anysolve.ai/tools/u-ba835df8268fc301-write-email).
 
 ![Screenshot](create-task-result.png)
 

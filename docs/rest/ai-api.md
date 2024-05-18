@@ -2,9 +2,9 @@
 
 AnySolve allows you to streamline the execution of AI tasks by bundling steps into AnySolve tasks. This enables the creation of customized tasks for solving specific AI problems with adjustable parameters.
 
-Every task on AnySolve, such as the [Text Compression](https://www.anysolve.ai/tasks/u-806494eb1fbfb39f-text-compression?version=1.0.0) task, is accessible via a RESTful interface.
+Every task on AnySolve, such as the [Text Compression](https://www.anysolve.ai/tools/u-806494eb1fbfb39f-text-compression?version=1.0.0) task, is accessible via a RESTful interface.
 
-If you're looking to exclusively use OpenAI's **ChatGPT** with our REST Interface you can use the [ChatComplete (GPT and others)](https://www.anysolve.ai/tasks/intern-gpt-chat-completion) task. Additionally, **GPT** without Chat capabilities is accessible through the [Completion (GPT and others)](https://www.anysolve.ai/tasks/intern-gpt-completion) task.
+If you're looking to exclusively use OpenAI's **ChatGPT** with our REST Interface you can use the [ChatComplete (GPT and others)](https://www.anysolve.ai/tools/intern-gpt-chat-completion) task. Additionally, **GPT** without Chat capabilities is accessible through the [Completion (GPT and others)](https://www.anysolve.ai/tools/intern-gpt-completion) task.
 
 ## Introduction Video
 
@@ -32,7 +32,7 @@ After clicking `Save`, the system generates a token. Make sure to copy it, as it
 
 ## Using the REST API
 
-Every task, like [Text Compression](https://www.anysolve.ai/tasks/u-806494eb1fbfb39f-text-compression?version=1.0.0) or [ChatComplete (GPT and others)](https://www.anysolve.ai/tasks/intern-gpt-chat-completion), contains an `API` section that provides instructions on utilizing the task.
+Every task, like [Text Compression](https://www.anysolve.ai/tools/u-806494eb1fbfb39f-text-compression?version=1.0.0) or [ChatComplete (GPT and others)](https://www.anysolve.ai/tools/intern-gpt-chat-completion), contains an `API` section that provides instructions on utilizing the task.
 
 ![Screenshot](pat-task.png)
 
