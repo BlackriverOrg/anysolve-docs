@@ -1,8 +1,8 @@
-# Task: Chart generator
+# Tool: Chart generator
 
-Welcome to the world of effortless chart creation with the Chart Generator provided by AnySolve! This showcase highlights the innovative [Chart Generator | Generate Chart by Text](https://www.anysolve.ai/tools/intern-text-to-image-description-chart) task that empowers you to transform textual descriptions into captivating visual representations.
+Welcome to the world of effortless chart creation with the Chart Generator provided by AnySolve! This showcase highlights the innovative [Chart Generator | Generate Chart by Text](https://www.anysolve.ai/tools/intern-text-to-image-description-chart) tool that empowers you to transform textual descriptions into captivating visual representations.
 
-**Note**: The remarkable capabilities of AnySolve have brought this task to life. Moreover, you have the power to craft similar tasks effortlessly using the intuitive task designer.
+**Note**: The remarkable capabilities of AnySolve have brought this tool to life. Moreover, you have the power to craft similar tools effortlessly using the intuitive tool designer.
 
 ## Introduction Video
 
@@ -10,7 +10,7 @@ To kick things off, watch our informative introduction video that provides an in
 
 ![type:video](chart-generator.mp4){: poster='../chart-generator.jpg'}
 
-## Specify your task
+## Specify your tool
 
 Engaging with the Chart Generator is a breeze. Start by conveying your chart creation needs to the AI. Simply specify the following components:
 
@@ -18,7 +18,7 @@ Engaging with the Chart Generator is a breeze. Start by conveying your chart cre
 - **Axes Configuration**: Outline the axes of your chart, detailing what data each axis should represent.
 - **Data Points**: Provide the data points relevant to your chart. For instance, you can enter a description like: `Create a bar chart with activities on the X-axis and hours on the Y-axis. 'Eat' is 16 hours, 'sleep' is 8 hours, and 'playing' is 4 hours.`
 
-Once you've detailed your requirements, just hit the `Run task` button.
+Once you've detailed your requirements, just hit the `Run tool` button.
 
 ![Screenshot](chart-generator-input.png)
 

@@ -1,8 +1,8 @@
-# Task: Query Document Collection
+# Tool: Query Document Collection
 
-The following showcase presents the [Searchable Document Collection - Query](https://www.anysolve.ai/tools/intern-memory-search-collection-query) and [Searchable Document Collection - Add document](https://www.anysolve.ai/tools/intern-memory-search-collection-add-document) or [Searchable Document Collection - Add Website document](https://www.anysolve.ai/tools/intern-memory-search-collection-add-url) task. The tasks allows you to add documents to a collection and a user can ask questions about this documents.
+The following showcase presents the [Searchable Document Collection - Query](https://www.anysolve.ai/tools/intern-memory-search-collection-query) and [Searchable Document Collection - Add document](https://www.anysolve.ai/tools/intern-memory-search-collection-add-document) or [Searchable Document Collection - Add Website document](https://www.anysolve.ai/tools/intern-memory-search-collection-add-url) tool. The tools allows you to add documents to a collection and a user can ask questions about this documents.
 
-Please note that this task has been created by the capabilities of AnySolve. You can create a task that does a similar task easily with the task designer. Similar Tasks: [Create a Python script](https://www.anysolve.ai/tools/u-ba835df8268fc301-create-a-python-script), [Write and further improve a newspaper article](https://www.anysolve.ai/tools/u-ba835df8268fc301-write-and-further-improve-a-newspaper-article), [Write a paper](https://www.anysolve.ai/tools/u-ba835df8268fc301-write-a-paper), [Create a HTML document](https://www.anysolve.ai/tools/u-ba835df8268fc301-create-a-html-document)
+Please note that this tool has been created by the capabilities of AnySolve. You can create a tool that does a similar tool easily with the tool designer. Similar Tools: [Create a Python script](https://www.anysolve.ai/tools/u-ba835df8268fc301-create-a-python-script), [Write and further improve a newspaper article](https://www.anysolve.ai/tools/u-ba835df8268fc301-write-and-further-improve-a-newspaper-article), [Write a paper](https://www.anysolve.ai/tools/u-ba835df8268fc301-write-a-paper), [Create a HTML document](https://www.anysolve.ai/tools/u-ba835df8268fc301-create-a-html-document)
 
 ## Introduction Video
 
@@ -16,17 +16,17 @@ First we need to build our knowledge base. For this we need to upload documents.
 
 Afterwards we add some more documents from the AnySolve website that have information about how to use AnySolve.
 
-**Please note:** The document lifetime is specified in the task description.
+**Please note:** The document lifetime is specified in the tool description.
 
 ## New: Add website document to the document collection
 
-The task [Searchable Document Collection - Add Website document](https://www.anysolve.ai/tools/intern-memory-search-collection-add-url) allows you to add a website by providing the `URL` to a collection.
+The tool [Searchable Document Collection - Add Website document](https://www.anysolve.ai/tools/intern-memory-search-collection-add-url) allows you to add a website by providing the `URL` to a collection.
 
 ## Querying the document collection
 
-Now that we have a document collection we can query the knowledge base we have built. We can ask `how can i create a html page with anysolve`. The document collection parameter must be set to the collection which we named `anysolve`. We can also set the quality paramter which decides how well the quality of the task is. The lower the quality the cheaper the task run and the faster the result.
+Now that we have a document collection we can query the knowledge base we have built. We can ask `how can i create a html page with anysolve`. The document collection parameter must be set to the collection which we named `anysolve`. We can also set the quality paramter which decides how well the quality of the tool is. The lower the quality the cheaper the tool run and the faster the result.
 
-After a click on `Run task` we get the result.
+After a click on `Run tool` we get the result.
 
 ![Screenshot](query.png)
 
@@ -34,4 +34,4 @@ The result shows the result as JSON format with `answer`, `source`, `document_na
 
 ## Conclusion
 
-The task allows you to add a document collection and queries the collection while getting a meaningful response.
+The tool allows you to add a document collection and queries the collection while getting a meaningful response.

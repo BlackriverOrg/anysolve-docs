@@ -1,8 +1,8 @@
-# Task design - Run AIs anonymized
+# Tool design - Run AIs anonymized
 
 As a Company or Private Person that is regulated by Privacy Laws as the GDPR you may worry about leaking your customer's data to AI models that are re-trained with the data you input.
 
-AnySolve offers a solution for this problem. The [https://www.anysolve.ai/tools/intern-anonymizer-anonymize](Anonymize Text Task) allows you to use the [Software Presidio](https://microsoft.github.io/presidio/) to anonymize your inputs.
+AnySolve offers a solution for this problem. The [https://www.anysolve.ai/tools/intern-anonymizer-anonymize](Anonymize Text Tool) allows you to use the [Software Presidio](https://microsoft.github.io/presidio/) to anonymize your inputs.
 
 **Please note** that there is no guarantee that every form of private input is anonymized. Test it in full on your input data.
 
@@ -14,10 +14,10 @@ There are two scenarios you can use it.
 
 ## A) Simple input anonymization without sensitive information in the result
 
-- You want to replace sensitive content in the input and process it with a task.
+- You want to replace sensitive content in the input and process it with a tool.
 - You don't need the sensitive information in the result.
 
-When designing a task add the anonymization task as subtask before using an input in a subtask that may send the data to a 3rd party. Typically this could be a ChatComplete task.
+When designing a tool add the anonymization tool as subtool before using an input in a subtool that may send the data to a 3rd party. Typically this could be a ChatComplete tool.
 
 ![Screenshot](anonymize.png)
 
@@ -25,10 +25,10 @@ When designing a task add the anonymization task as subtask before using an inpu
 
 ![Screenshot](anonymization-process.png)
 
-- You want to replace sensitive content in the input and process it with a task.
+- You want to replace sensitive content in the input and process it with a tool.
 - You need the sensitive information in the result.
 
-When designing a task add the anonymization task as subtask before using an input in a subtask that may send the data to a 3rd party. At the end of the task add a subtask that deanonymizes the result by using the `De-anonymization information` that is provided by the anonymization task.
+When designing a tool add the anonymization tool as subtool before using an input in a subtool that may send the data to a 3rd party. At the end of the tool add a subtool that deanonymizes the result by using the `De-anonymization information` that is provided by the anonymization tool.
 
 ![Screenshot](de-anonymize.png)
 
